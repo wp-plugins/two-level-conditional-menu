@@ -4,7 +4,7 @@
 Plugin Name: Two Level Conditional Menu
 Plugin URI: http://wordpress.org/extend/plugins/two-level-conditional-menu/
 Description: Replaces two-level menu with a two-level conditional menu.
-Version: 1.0
+Version: 1.1
 Author: Peter Massey-Plantinga
 Author URI: http://massey-plantinga.com
 License: GPL2
