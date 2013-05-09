@@ -35,10 +35,16 @@ The menu must be in the "Primary" location.
 
 == Changelog ==
 
+= 1.1 =
+* Fixed bug: If the blog page was in the menu, sub-menu items weren't showing up
+
 = 1.0 =
 * First Version.
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Fixed bug: If the blog page was in the menu, sub-menu items weren't showing up
 
 = 1.0 =
 * First Version.
