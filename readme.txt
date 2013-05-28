@@ -26,8 +26,6 @@ For example, if you had a menu that had a structure like so:
 
 You would only be able to see the "History" and "People" menu items on the "About," "History," and "People" pages.
 
-The menu must be in the "Primary" location.
-
 == Installation ==
 
 1. Upload `two-level-conditional-menu.php` to the `/wp-content/plugins/` directory
@@ -35,16 +33,12 @@ The menu must be in the "Primary" location.
 
 == Changelog ==
 
-= 1.1 =
-* Fixed bug: If the blog page was in the menu, sub-menu items weren't showing up
-
-= 1.0 =
-* First Version.
-
-== Upgrade Notice ==
+= 1.2 =
+* Updated: menu can be anywhere, not just in 'primary' location.
+* Updated: Any 'container' that wp_nav_menu accepts will work.
+* Fixed bug: Any pages that had multiple posts couldn't have sub-menu items.
 
 = 1.1 =
-* Fixed bug: If the blog page was in the menu, sub-menu items weren't showing up
+* Fixed bug: If the blog page was in the menu, sub-menu items weren't showing up.
 
 = 1.0 =
-* First Version.
